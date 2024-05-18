@@ -106,7 +106,7 @@
 
 
 <br>
- <!--   
+ 
 <h4 align="center"> Deploy on Heroku ( Isn't Working it will be fixed soon ! )
 </h4>
 
